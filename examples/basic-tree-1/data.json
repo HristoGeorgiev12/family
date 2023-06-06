@@ -1,4 +1,46 @@
 [
+	  {
+    "id": "41e6e077-1375-4bf7-b352-86a6ca1b6852",
+    "data": {
+      "gender": "M",
+      "first_name": "Георги",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "0",
+        "109a1692-762a-4108-a0f0-7b3fae403e28",
+        "19857b60-febb-4373-a31e-296a2b122428",
+        "95ac45a9-ba77-482c-b2af-dc5badeb9b3a"
+      ],
+      "spouses": [
+        "22328709-7d9b-42cd-8db5-1510d650154d"
+      ]
+    }
+  },
+  {
+    "id": "22328709-7d9b-42cd-8db5-1510d650154d",
+    "data": {
+      "gender": "F",
+      "first_name": "Иванка",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "41e6e077-1375-4bf7-b352-86a6ca1b6852"
+      ],
+      "children": [
+        "0",
+        "109a1692-762a-4108-a0f0-7b3fae403e28",
+        "19857b60-febb-4373-a31e-296a2b122428",
+        "95ac45a9-ba77-482c-b2af-dc5badeb9b3a"
+      ]
+    }
+  },
   {
     "id": "0",
     "rels": {
@@ -213,48 +255,6 @@
     "rels": {
       "mother": "572cfb01-20d3-4530-b0cc-3d17db1eb485",
       "father": "9d928c10-08f2-468d-a5e0-da12229abbe1"
-    }
-  },
-  {
-    "id": "41e6e077-1375-4bf7-b352-86a6ca1b6852",
-    "data": {
-      "gender": "M",
-      "first_name": "Георги",
-      "last_name": "",
-      "birthday": "",
-      "avatar": ""
-    },
-    "rels": {
-      "children": [
-        "0",
-        "109a1692-762a-4108-a0f0-7b3fae403e28",
-        "19857b60-febb-4373-a31e-296a2b122428",
-        "95ac45a9-ba77-482c-b2af-dc5badeb9b3a"
-      ],
-      "spouses": [
-        "22328709-7d9b-42cd-8db5-1510d650154d"
-      ]
-    }
-  },
-  {
-    "id": "22328709-7d9b-42cd-8db5-1510d650154d",
-    "data": {
-      "gender": "F",
-      "first_name": "Иванка",
-      "last_name": "",
-      "birthday": "",
-      "avatar": ""
-    },
-    "rels": {
-      "spouses": [
-        "41e6e077-1375-4bf7-b352-86a6ca1b6852"
-      ],
-      "children": [
-        "0",
-        "109a1692-762a-4108-a0f0-7b3fae403e28",
-        "19857b60-febb-4373-a31e-296a2b122428",
-        "95ac45a9-ba77-482c-b2af-dc5badeb9b3a"
-      ]
     }
   },
   {
