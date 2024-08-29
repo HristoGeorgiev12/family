@@ -834,7 +834,14 @@
       "avatar": ""
     },
     "rels": {
-      "father": "ef6cd3ef-9b54-463e-8c5a-41b711e4573f"
+      "father": "ef6cd3ef-9b54-463e-8c5a-41b711e4573f",
+      "spouses": [
+        "1c261f5e-d6e2-4f02-8566-1332c5bffea2"
+      ],
+      "children": [
+        "4a71d191-fe51-4dc5-9d6a-ead893495480",
+        "1aa5e85d-7b03-423a-a90b-87a897912626"
+      ]
     }
   },
   {
@@ -890,7 +897,13 @@
       "avatar": ""
     },
     "rels": {
-      "father": "b4d68516-77b0-4f99-b383-a0cf5e6cfb62"
+      "father": "b4d68516-77b0-4f99-b383-a0cf5e6cfb62",
+      "spouses": [
+        "69bc31d2-a62b-4deb-95ec-9aa7c4f87c3c"
+      ],
+      "children": [
+        "4769d95f-3cc9-487d-a499-30b08e0de92e"
+      ]
     }
   },
   {
@@ -933,7 +946,15 @@
       "avatar": ""
     },
     "rels": {
-      "father": "b4d68516-77b0-4f99-b383-a0cf5e6cfb62"
+      "father": "b4d68516-77b0-4f99-b383-a0cf5e6cfb62",
+      "spouses": [
+        "4aec1b58-8add-4780-bc79-7f391738f65a"
+      ],
+      "children": [
+        "59e020fe-4ec3-4b91-b6fe-614449b0cf45",
+        "1ba7c47f-08a9-48c3-a9f9-d0e2bfa730fb",
+        "f1e03fc9-f9ec-4f1d-b2a1-e0fd177a0519"
+      ]
     }
   },
   {
@@ -997,13 +1018,24 @@
     },
     "rels": {
       "mother": "5e3776b6-9e76-4a06-bf29-7753bd050dd5",
-      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1"
+      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1",
+      "spouses": [
+        "d597a3e9-451a-4462-a9fb-8ff606abc3d0"
+      ],
+      "children": [
+        "7a22b8c8-5377-465c-9492-ab56ed912e30",
+        "c56c0a64-d0b3-4d17-9b8e-faf44d2c193f"
+      ]
     }
   },
   {
     "id": "5e3776b6-9e76-4a06-bf29-7753bd050dd5",
     "data": {
-      "gender": "F"
+      "gender": "F",
+      "first_name": "Магда",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
     },
     "rels": {
       "spouses": [
@@ -1028,7 +1060,14 @@
     },
     "rels": {
       "mother": "5e3776b6-9e76-4a06-bf29-7753bd050dd5",
-      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1"
+      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1",
+      "spouses": [
+        "6e013e06-3a97-4c45-8dcc-b3bd33f86521"
+      ],
+      "children": [
+        "ea89ac60-c91f-4080-ac1a-16de2cc97b4e",
+        "45dddec9-b0ad-4a4d-935a-fe62c36edf45"
+      ]
     }
   },
   {
@@ -1041,7 +1080,14 @@
     },
     "rels": {
       "mother": "5e3776b6-9e76-4a06-bf29-7753bd050dd5",
-      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1"
+      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1",
+      "spouses": [
+        "53706d37-d9d5-4991-972e-1166517b6de1"
+      ],
+      "children": [
+        "0e4f56ca-767e-48d1-a227-ae0956b95dad",
+        "ccd0da21-2f6f-4349-a833-88d343ae6e07"
+      ]
     }
   },
   {
@@ -1054,7 +1100,14 @@
     },
     "rels": {
       "mother": "5e3776b6-9e76-4a06-bf29-7753bd050dd5",
-      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1"
+      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1",
+      "spouses": [
+        "0b0738ab-4624-4fde-8de0-cdaba9520d3a"
+      ],
+      "children": [
+        "85e565ae-af90-4306-ae6f-aefcf7791ba4",
+        "23e5aa26-2461-46e0-9257-3054415742cf"
+      ]
     }
   },
   {
@@ -1067,7 +1120,674 @@
     },
     "rels": {
       "mother": "5e3776b6-9e76-4a06-bf29-7753bd050dd5",
-      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1"
+      "father": "64537ef0-da29-4816-9dac-e20b0a9573d1",
+      "spouses": [
+        "75c24d1e-f966-4cd7-8a9b-84be61d6553f"
+      ],
+      "children": [
+        "b58b0a74-5911-4d48-b654-e47ab910c343",
+        "7a69f24f-6c0d-4a78-ac89-67dff4f058da"
+      ]
+    }
+  },
+  {
+    "id": "0e4f56ca-767e-48d1-a227-ae0956b95dad",
+    "data": {
+      "gender": "M",
+      "first_name": "Асен",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "53706d37-d9d5-4991-972e-1166517b6de1",
+      "mother": "a9e9e911-3916-405c-bc86-057f11b6588c",
+      "spouses": [
+        "ac793c99-da85-4188-acfe-b4be75157762"
+      ],
+      "children": [
+        "51057b06-6409-4029-a9ed-5234fda30c15",
+        "c291ff43-9452-424d-bebe-f739531b0818"
+      ]
+    }
+  },
+  {
+    "id": "53706d37-d9d5-4991-972e-1166517b6de1",
+    "data": {
+      "gender": "M",
+      "first_name": "Васе",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "a9e9e911-3916-405c-bc86-057f11b6588c"
+      ],
+      "children": [
+        "0e4f56ca-767e-48d1-a227-ae0956b95dad",
+        "ccd0da21-2f6f-4349-a833-88d343ae6e07"
+      ]
+    }
+  },
+  {
+    "id": "ccd0da21-2f6f-4349-a833-88d343ae6e07",
+    "data": {
+      "gender": "F",
+      "first_name": "Мария",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "53706d37-d9d5-4991-972e-1166517b6de1",
+      "mother": "a9e9e911-3916-405c-bc86-057f11b6588c",
+      "spouses": [
+        "89573eb2-57dd-4312-beb6-24d16aee1329"
+      ],
+      "children": [
+        "223251d3-857a-4238-b56e-f8dc9e619482",
+        "a9242a2d-ed56-4367-ae7f-34a44dc3fb33"
+      ]
+    }
+  },
+  {
+    "id": "51057b06-6409-4029-a9ed-5234fda30c15",
+    "data": {
+      "gender": "M",
+      "first_name": "Александър",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "ac793c99-da85-4188-acfe-b4be75157762",
+      "father": "0e4f56ca-767e-48d1-a227-ae0956b95dad"
+    }
+  },
+  {
+    "id": "ac793c99-da85-4188-acfe-b4be75157762",
+    "data": {
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": [
+        "0e4f56ca-767e-48d1-a227-ae0956b95dad"
+      ],
+      "children": [
+        "51057b06-6409-4029-a9ed-5234fda30c15",
+        "c291ff43-9452-424d-bebe-f739531b0818"
+      ]
+    }
+  },
+  {
+    "id": "c291ff43-9452-424d-bebe-f739531b0818",
+    "data": {
+      "gender": "F",
+      "first_name": "Маргарита",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "ac793c99-da85-4188-acfe-b4be75157762",
+      "father": "0e4f56ca-767e-48d1-a227-ae0956b95dad"
+    }
+  },
+  {
+    "id": "223251d3-857a-4238-b56e-f8dc9e619482",
+    "data": {
+      "gender": "M",
+      "first_name": "Венцислав",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "89573eb2-57dd-4312-beb6-24d16aee1329",
+      "mother": "ccd0da21-2f6f-4349-a833-88d343ae6e07"
+    }
+  },
+  {
+    "id": "89573eb2-57dd-4312-beb6-24d16aee1329",
+    "data": {
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": [
+        "ccd0da21-2f6f-4349-a833-88d343ae6e07"
+      ],
+      "children": [
+        "223251d3-857a-4238-b56e-f8dc9e619482",
+        "a9242a2d-ed56-4367-ae7f-34a44dc3fb33"
+      ]
+    }
+  },
+  {
+    "id": "a9242a2d-ed56-4367-ae7f-34a44dc3fb33",
+    "data": {
+      "gender": "F",
+      "first_name": "Мариана",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "89573eb2-57dd-4312-beb6-24d16aee1329",
+      "mother": "ccd0da21-2f6f-4349-a833-88d343ae6e07"
+    }
+  },
+  {
+    "id": "7a22b8c8-5377-465c-9492-ab56ed912e30",
+    "data": {
+      "gender": "M",
+      "first_name": "Гриша",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "d597a3e9-451a-4462-a9fb-8ff606abc3d0",
+      "father": "e248bd17-6bd7-413a-b5fd-3621af1e0456",
+      "spouses": [
+        "273cd789-ea93-452e-9441-80a7c4c2cb9e"
+      ],
+      "children": [
+        "dfc4127b-a28c-4d85-8666-77b0fe31a1dc",
+        "94eb1016-c2dc-440c-a100-17996bd9153c"
+      ]
+    }
+  },
+  {
+    "id": "d597a3e9-451a-4462-a9fb-8ff606abc3d0",
+    "data": {
+      "gender": "F",
+      "first_name": "",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "e248bd17-6bd7-413a-b5fd-3621af1e0456"
+      ],
+      "children": [
+        "7a22b8c8-5377-465c-9492-ab56ed912e30",
+        "c56c0a64-d0b3-4d17-9b8e-faf44d2c193f"
+      ]
+    }
+  },
+  {
+    "id": "273cd789-ea93-452e-9441-80a7c4c2cb9e",
+    "data": {
+      "gender": "F",
+      "first_name": "Атанаска",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "7a22b8c8-5377-465c-9492-ab56ed912e30"
+      ],
+      "children": [
+        "dfc4127b-a28c-4d85-8666-77b0fe31a1dc",
+        "94eb1016-c2dc-440c-a100-17996bd9153c"
+      ]
+    }
+  },
+  {
+    "id": "dfc4127b-a28c-4d85-8666-77b0fe31a1dc",
+    "data": {
+      "gender": "M",
+      "first_name": "Валери",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "273cd789-ea93-452e-9441-80a7c4c2cb9e",
+      "father": "7a22b8c8-5377-465c-9492-ab56ed912e30"
+    }
+  },
+  {
+    "id": "94eb1016-c2dc-440c-a100-17996bd9153c",
+    "data": {
+      "gender": "F",
+      "first_name": "Сиана",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "273cd789-ea93-452e-9441-80a7c4c2cb9e",
+      "father": "7a22b8c8-5377-465c-9492-ab56ed912e30"
+    }
+  },
+  {
+    "id": "c56c0a64-d0b3-4d17-9b8e-faf44d2c193f",
+    "data": {
+      "gender": "M",
+      "first_name": "Вальо",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "d597a3e9-451a-4462-a9fb-8ff606abc3d0",
+      "father": "e248bd17-6bd7-413a-b5fd-3621af1e0456"
+    }
+  },
+  {
+    "id": "ea89ac60-c91f-4080-ac1a-16de2cc97b4e",
+    "data": {
+      "gender": "F",
+      "first_name": "Галя",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "6e013e06-3a97-4c45-8dcc-b3bd33f86521",
+      "father": "03770f69-4139-47d5-b10e-8a3411322d2b",
+      "spouses": [
+        "f93ab04d-1a5a-43d7-9931-fd4fc55b5238"
+      ],
+      "children": [
+        "b72dac5b-4a4b-4b0c-a7cc-dad652699e72",
+        "4fa8dc2c-d3bf-43db-b58a-8f460a13c411"
+      ]
+    }
+  },
+  {
+    "id": "6e013e06-3a97-4c45-8dcc-b3bd33f86521",
+    "data": {
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": [
+        "03770f69-4139-47d5-b10e-8a3411322d2b"
+      ],
+      "children": [
+        "ea89ac60-c91f-4080-ac1a-16de2cc97b4e",
+        "45dddec9-b0ad-4a4d-935a-fe62c36edf45"
+      ]
+    }
+  },
+  {
+    "id": "45dddec9-b0ad-4a4d-935a-fe62c36edf45",
+    "data": {
+      "gender": "M",
+      "first_name": "Сашко",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "6e013e06-3a97-4c45-8dcc-b3bd33f86521",
+      "father": "03770f69-4139-47d5-b10e-8a3411322d2b"
+    }
+  },
+  {
+    "id": "f93ab04d-1a5a-43d7-9931-fd4fc55b5238",
+    "data": {
+      "gender": "M",
+      "first_name": "Тодор",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "ea89ac60-c91f-4080-ac1a-16de2cc97b4e"
+      ],
+      "children": [
+        "b72dac5b-4a4b-4b0c-a7cc-dad652699e72",
+        "4fa8dc2c-d3bf-43db-b58a-8f460a13c411"
+      ]
+    }
+  },
+  {
+    "id": "b72dac5b-4a4b-4b0c-a7cc-dad652699e72",
+    "data": {
+      "gender": "M",
+      "first_name": "Кирил",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "f93ab04d-1a5a-43d7-9931-fd4fc55b5238",
+      "mother": "ea89ac60-c91f-4080-ac1a-16de2cc97b4e"
+    }
+  },
+  {
+    "id": "4fa8dc2c-d3bf-43db-b58a-8f460a13c411",
+    "data": {
+      "gender": "F",
+      "first_name": "Дима",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "f93ab04d-1a5a-43d7-9931-fd4fc55b5238",
+      "mother": "ea89ac60-c91f-4080-ac1a-16de2cc97b4e"
+    }
+  },
+  {
+    "id": "85e565ae-af90-4306-ae6f-aefcf7791ba4",
+    "data": {
+      "gender": "M",
+      "first_name": "Бойко",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0b0738ab-4624-4fde-8de0-cdaba9520d3a",
+      "mother": "adc131b3-ea68-4f65-8b7f-b58a4be47c7c"
+    }
+  },
+  {
+    "id": "0b0738ab-4624-4fde-8de0-cdaba9520d3a",
+    "data": {
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": [
+        "adc131b3-ea68-4f65-8b7f-b58a4be47c7c"
+      ],
+      "children": [
+        "85e565ae-af90-4306-ae6f-aefcf7791ba4",
+        "23e5aa26-2461-46e0-9257-3054415742cf"
+      ]
+    }
+  },
+  {
+    "id": "23e5aa26-2461-46e0-9257-3054415742cf",
+    "data": {
+      "gender": "F",
+      "first_name": "Милена",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0b0738ab-4624-4fde-8de0-cdaba9520d3a",
+      "mother": "adc131b3-ea68-4f65-8b7f-b58a4be47c7c"
+    }
+  },
+  {
+    "id": "b58b0a74-5911-4d48-b654-e47ab910c343",
+    "data": {
+      "gender": "M",
+      "first_name": "Ангел",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "75c24d1e-f966-4cd7-8a9b-84be61d6553f",
+      "mother": "744e8bae-d89e-42d5-afdb-c77d6d8f4e1b",
+      "spouses": [
+        "81958dc9-0a62-49c8-b391-8f1bda6ab27c"
+      ],
+      "children": [
+        "7cc8afaf-552f-4141-b517-b2709d718919",
+        "699188e4-034c-4ca9-ac6a-08b4e20cc23b"
+      ]
+    }
+  },
+  {
+    "id": "75c24d1e-f966-4cd7-8a9b-84be61d6553f",
+    "data": {
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": [
+        "744e8bae-d89e-42d5-afdb-c77d6d8f4e1b"
+      ],
+      "children": [
+        "b58b0a74-5911-4d48-b654-e47ab910c343",
+        "7a69f24f-6c0d-4a78-ac89-67dff4f058da"
+      ]
+    }
+  },
+  {
+    "id": "7cc8afaf-552f-4141-b517-b2709d718919",
+    "data": {
+      "gender": "M",
+      "first_name": "Милен",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "81958dc9-0a62-49c8-b391-8f1bda6ab27c",
+      "father": "b58b0a74-5911-4d48-b654-e47ab910c343"
+    }
+  },
+  {
+    "id": "81958dc9-0a62-49c8-b391-8f1bda6ab27c",
+    "data": {
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": [
+        "b58b0a74-5911-4d48-b654-e47ab910c343"
+      ],
+      "children": [
+        "7cc8afaf-552f-4141-b517-b2709d718919",
+        "699188e4-034c-4ca9-ac6a-08b4e20cc23b"
+      ]
+    }
+  },
+  {
+    "id": "699188e4-034c-4ca9-ac6a-08b4e20cc23b",
+    "data": {
+      "gender": "F",
+      "first_name": "Михаела",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "81958dc9-0a62-49c8-b391-8f1bda6ab27c",
+      "father": "b58b0a74-5911-4d48-b654-e47ab910c343"
+    }
+  },
+  {
+    "id": "7a69f24f-6c0d-4a78-ac89-67dff4f058da",
+    "data": {
+      "gender": "F",
+      "first_name": "Мирослава",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "75c24d1e-f966-4cd7-8a9b-84be61d6553f",
+      "mother": "744e8bae-d89e-42d5-afdb-c77d6d8f4e1b",
+      "spouses": [
+        "9b057bc1-42cd-47a4-afef-2d07e796a8c4"
+      ],
+      "children": [
+        "fa597c2f-30ba-455b-b8e6-f64244d0729d",
+        "64691887-4c62-4ffb-9efa-d517ba6862aa"
+      ]
+    }
+  },
+  {
+    "id": "fa597c2f-30ba-455b-b8e6-f64244d0729d",
+    "data": {
+      "gender": "M",
+      "first_name": "Кристиян",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "9b057bc1-42cd-47a4-afef-2d07e796a8c4",
+      "mother": "7a69f24f-6c0d-4a78-ac89-67dff4f058da"
+    }
+  },
+  {
+    "id": "9b057bc1-42cd-47a4-afef-2d07e796a8c4",
+    "data": {
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": [
+        "7a69f24f-6c0d-4a78-ac89-67dff4f058da"
+      ],
+      "children": [
+        "fa597c2f-30ba-455b-b8e6-f64244d0729d",
+        "64691887-4c62-4ffb-9efa-d517ba6862aa"
+      ]
+    }
+  },
+  {
+    "id": "64691887-4c62-4ffb-9efa-d517ba6862aa",
+    "data": {
+      "gender": "F",
+      "first_name": "Магдалена",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "9b057bc1-42cd-47a4-afef-2d07e796a8c4",
+      "mother": "7a69f24f-6c0d-4a78-ac89-67dff4f058da"
+    }
+  },
+  {
+    "id": "4769d95f-3cc9-487d-a499-30b08e0de92e",
+    "data": {
+      "gender": "F",
+      "first_name": "Катерина",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "69bc31d2-a62b-4deb-95ec-9aa7c4f87c3c",
+      "father": "d689f2a0-de2a-4a1c-b921-1585fea22a30"
+    }
+  },
+  {
+    "id": "69bc31d2-a62b-4deb-95ec-9aa7c4f87c3c",
+    "data": {
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": [
+        "d689f2a0-de2a-4a1c-b921-1585fea22a30"
+      ],
+      "children": [
+        "4769d95f-3cc9-487d-a499-30b08e0de92e"
+      ]
+    }
+  },
+  {
+    "id": "4a71d191-fe51-4dc5-9d6a-ead893495480",
+    "data": {
+      "gender": "M",
+      "first_name": "Иван",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "1c261f5e-d6e2-4f02-8566-1332c5bffea2",
+      "father": "f5b90d04-bcfe-4b2e-b07c-ff5fea828c74"
+    }
+  },
+  {
+    "id": "1c261f5e-d6e2-4f02-8566-1332c5bffea2",
+    "data": {
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": [
+        "f5b90d04-bcfe-4b2e-b07c-ff5fea828c74"
+      ],
+      "children": [
+        "4a71d191-fe51-4dc5-9d6a-ead893495480",
+        "1aa5e85d-7b03-423a-a90b-87a897912626"
+      ]
+    }
+  },
+  {
+    "id": "1aa5e85d-7b03-423a-a90b-87a897912626",
+    "data": {
+      "gender": "F",
+      "first_name": "Виолета",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "1c261f5e-d6e2-4f02-8566-1332c5bffea2",
+      "father": "f5b90d04-bcfe-4b2e-b07c-ff5fea828c74"
+    }
+  },
+  {
+    "id": "59e020fe-4ec3-4b91-b6fe-614449b0cf45",
+    "data": {
+      "gender": "F",
+      "first_name": "Реса",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "4aec1b58-8add-4780-bc79-7f391738f65a",
+      "mother": "2f1ee952-13e7-421f-ac0e-af9ad5d2bbee"
+    }
+  },
+  {
+    "id": "4aec1b58-8add-4780-bc79-7f391738f65a",
+    "data": {
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": [
+        "2f1ee952-13e7-421f-ac0e-af9ad5d2bbee"
+      ],
+      "children": [
+        "59e020fe-4ec3-4b91-b6fe-614449b0cf45",
+        "1ba7c47f-08a9-48c3-a9f9-d0e2bfa730fb",
+        "f1e03fc9-f9ec-4f1d-b2a1-e0fd177a0519"
+      ]
+    }
+  },
+  {
+    "id": "1ba7c47f-08a9-48c3-a9f9-d0e2bfa730fb",
+    "data": {
+      "gender": "F",
+      "first_name": "Параскева",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "4aec1b58-8add-4780-bc79-7f391738f65a",
+      "mother": "2f1ee952-13e7-421f-ac0e-af9ad5d2bbee"
+    }
+  },
+  {
+    "id": "f1e03fc9-f9ec-4f1d-b2a1-e0fd177a0519",
+    "data": {
+      "gender": "M",
+      "first_name": "Пано",
+      "last_name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "4aec1b58-8add-4780-bc79-7f391738f65a",
+      "mother": "2f1ee952-13e7-421f-ac0e-af9ad5d2bbee"
     }
   }
 ]
