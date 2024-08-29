@@ -1,5 +1,20 @@
 [
   {
+    "id": "4230c416-0b88-4588-b1b3-1cd0c1b02f5f",
+    "data": {
+      "gender": "M",
+      "first_name": "Стоил",
+      "last_name": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "b4d68516-77b0-4f99-b383-a0cf5e6cfb62"
+      ],
+      "spouses": []
+    }
+  },
+  {
     "id": "41e6e077-1375-4bf7-b352-86a6ca1b6852",
     "data": {
       "gender": "M",
@@ -864,21 +879,6 @@
       ],
       "spouses": [],
       "father": "4230c416-0b88-4588-b1b3-1cd0c1b02f5f"
-    }
-  },
-  {
-    "id": "4230c416-0b88-4588-b1b3-1cd0c1b02f5f",
-    "data": {
-      "gender": "M",
-      "first_name": "Стоил",
-      "last_name": "",
-      "avatar": ""
-    },
-    "rels": {
-      "children": [
-        "b4d68516-77b0-4f99-b383-a0cf5e6cfb62"
-      ],
-      "spouses": []
     }
   },
   {
