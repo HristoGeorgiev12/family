@@ -74,7 +74,7 @@
       "first_name": "Нако",
       "last_name": "Петров",
       "birthday": "1945",
-      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg",
+      "avatar": "",
       "gender": "M"
     }
   },
@@ -85,7 +85,7 @@
       "first_name": "Румяна",
       "last_name": "Петрова",
       "birthday": "1949",
-      "avatar": ""
+      "avatar": "https://scontent.fvar1-1.fna.fbcdn.net/v/t39.30808-6/448722308_1432520104065229_8336370501915986798_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=jzbs2H8QAkIQ7kNvgHtY3Q6&_nc_ht=scontent.fvar1-1.fna&oh=00_AYC18VWaG5eVDB4R9ZgrQdr8zKFLn_Eti1PUly-fF2lWlg&oe=66D60C96"
     },
     "rels": {
       "spouses": [
@@ -104,7 +104,7 @@
       "first_name": "Галина",
       "last_name": "Георгиева",
       "birthday": "1969",
-      "avatar": ""
+      "avatar": "https://scontent.fvar1-1.fna.fbcdn.net/v/t1.6435-9/42650296_2088788764518650_8255841266571411456_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=53a332&_nc_ohc=LIEdiFqFwDkQ7kNvgEOebgS&_nc_ht=scontent.fvar1-1.fna&oh=00_AYB55BvSfzq4Fun2YM-yfU6s9CVeVruXSGbM_uHI65673A&oe=66F7AF6A"
     },
     "rels": {
       "mother": "2dd707f7-b3ad-40fd-907f-a8046109a129",
@@ -146,7 +146,7 @@
       "first_name": "Георги",
       "last_name": "Георгиев",
       "birthday": "1965",
-      "avatar": ""
+      "avatar": "https://scontent.fvar1-1.fna.fbcdn.net/v/t1.6435-1/129349438_105677011395510_7680525148989815085_n.jpg?stp=c0.0.335.335a_dst-jpg_s200x200&_nc_cat=111&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=-wkbP0UnbvMQ7kNvgED-4q0&_nc_ht=scontent.fvar1-1.fna&oh=00_AYB_-W3VUYtqPtcpRoxsxl4hLKMVniS2ev8CA2Z_ZvkEOg&oe=66F7AD1A"
     },
     "rels": {
       "spouses": [
@@ -165,7 +165,7 @@
       "first_name": "Христо",
       "last_name": "Георгиев",
       "birthday": "1989",
-      "avatar": ""
+      "avatar": "https://scontent.fvar1-1.fna.fbcdn.net/v/t1.6435-9/68505381_2651954521503077_1767345953875951616_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=53a332&_nc_ohc=bvlaMBV8MPcQ7kNvgF1nXZk&_nc_ht=scontent.fvar1-1.fna&oh=00_AYAL9TNyqrsa4cvoRqSdGThFabir2uwzNFdRFRbVqBrUsA&oe=66F7A4E4"
     },
     "rels": {
       "mother": "705a169c-0dea-4733-aa10-7b4a530980b0",
@@ -185,7 +185,7 @@
       "first_name": "Румяна",
       "last_name": "Георгиева",
       "birthday": "1995",
-      "avatar": ""
+      "avatar": "https://scontent.fvar1-1.fna.fbcdn.net/v/t1.6435-9/70856175_2675478292483518_8008026262092120064_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-SZ_PmDBxrEQ7kNvgGsAUEU&_nc_ht=scontent.fvar1-1.fna&oh=00_AYC7k6GRayuX881W9KoR2ah3I23rqCtTfByhIVevCpityQ&oe=66F7B826"
     },
     "rels": {
       "mother": "705a169c-0dea-4733-aa10-7b4a530980b0",
@@ -668,7 +668,8 @@
       "gender": "F",
       "first_name": "Елица",
       "last_name": "Димитрова",
-      "avatar": ""
+      "avatar": "https://scontent.fvar1-1.fna.fbcdn.net/v/t39.30808-6/346277197_993907375375546_7668190940169856362_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kTVpA1gPG1kQ7kNvgHpbfrx&_nc_ht=scontent.fvar1-1.fna&_nc_gid=AQdCLJyiHulTFf7f4tm3aqF&oh=00_AYDaEVepFpu2_n4PDFBHdSRB4B-mO_aHXMjFD32Hix6qHg&oe=66D6166C",
+      "birthday": ""
     },
     "rels": {
       "spouses": [
